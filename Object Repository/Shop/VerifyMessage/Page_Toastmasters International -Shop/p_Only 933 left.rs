@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Only 933 left</name>
+   <tag></tag>
+   <elementGuidId>83e0070b-da75-428a-993a-2d026a0da272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#B2 > div.box-height > p.label-validation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[contains(text(),'Only')])[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b2e2f0be-6f3f-4a60-9939-67b4683c657a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-validation</value>
+      <webElementGuid>d357d621-3df2-49ae-aca1-ff66df0d0952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only 933 left!</value>
+      <webElementGuid>468fc764-cf7f-4c48-a1f4-347c450cc359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;B2&quot;)/div[@class=&quot;box-height&quot;]/p[@class=&quot;label-validation&quot;]</value>
+      <webElementGuid>0700449d-6458-4414-b5f9-28e850c4ea98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='B2']/div[2]/p</value>
+      <webElementGuid>b7acf559-1515-446c-bbaa-9f5182c2139c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Price: $7.50'])[2]/following::p[1]</value>
+      <webElementGuid>81a54d98-91aa-4ce2-ad9c-5faaa60b1858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item #: B2'])[1]/following::p[1]</value>
+      <webElementGuid>93452448-cd37-4769-ac3f-617d2dc54bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[3]/preceding::p[1]</value>
+      <webElementGuid>5f7e5640-a1cc-42be-bf2b-06ece8753921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add To Cart'])[4]/preceding::p[1]</value>
+      <webElementGuid>62a36b49-fa1e-43a1-946b-5221507cd814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only 933 left!']/parent::*</value>
+      <webElementGuid>b1969b32-6839-4c21-b3d7-96d8ed60898d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p</value>
+      <webElementGuid>629f8eb0-5bbc-4aad-b913-6bd44d06d76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Only 933 left!' or . = 'Only 933 left!')]</value>
+      <webElementGuid>10d2dacc-1c6a-4f17-a9b2-4851c0e09ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

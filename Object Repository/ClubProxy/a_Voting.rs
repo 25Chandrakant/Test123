@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Voting</name>
+   <tag></tag>
+   <elementGuidId>a8f94db4-8522-46f0-b62b-2b6736e6e530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='#ABMVoting']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5eea49f5-7304-428a-9e3a-2a8280bea792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/events/annual-business-meeting/voting</value>
+      <webElementGuid>58761a35-ad95-4645-892a-45f1d8f1f3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>gt-class</name>
+      <type>Main</type>
+      <value>abm-voting</value>
+      <webElementGuid>22288247-27a5-4371-8af5-584c727302ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>#ABMVoting</value>
+      <webElementGuid>793d2dff-047b-4308-b8bd-c9cd42ead801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Voting - Menu Item 3 of 4</value>
+      <webElementGuid>1955486d-9b68-4c87-81da-c810af6ff674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Voting
+                                </value>
+      <webElementGuid>185f4d84-e3db-474d-8698-bf4492a9c304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#ABMVoting&quot;)</value>
+      <webElementGuid>bf4e8949-cbc9-431e-ade4-2f61514203b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='#ABMVoting']</value>
+      <webElementGuid>6652550c-afc5-4b2c-a918-4398ad146de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='mainContent']/div[2]/div/nav/ul/li[3]/div/a</value>
+      <webElementGuid>0a78d82a-f71c-413e-8445-9b64f09ee45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Voting')]</value>
+      <webElementGuid>cbe5f8de-987d-49fe-864d-7b49e79eacd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Role'])[3]/following::a[1]</value>
+      <webElementGuid>8b594ea6-7df4-4687-a3ad-d10a1ae3c4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::a[2]</value>
+      <webElementGuid>8ff86a54-ccc3-490f-826a-3815568cd175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All members have a role in the Annual Business Meeting.'])[1]/preceding::a[2]</value>
+      <webElementGuid>8f2b525b-9532-4234-af68-13998dcab801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[1]/preceding::a[4]</value>
+      <webElementGuid>f680e381-8ac9-4115-9ddb-5d82e9f5f9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Voting']/parent::*</value>
+      <webElementGuid>54aaf453-3410-455b-801c-ef02eb12dc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/events/annual-business-meeting/voting')]</value>
+      <webElementGuid>3c99479e-6d10-434f-be8e-02686df2726d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>89474e9e-a94d-43d0-ac3a-33f35ef3c3e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/events/annual-business-meeting/voting' and @id = '#ABMVoting' and (text() = '
+
+Voting
+                                ' or . = '
+
+Voting
+                                ')]</value>
+      <webElementGuid>da5f9fc9-c21f-48e3-8f79-ddaa70c7a6bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

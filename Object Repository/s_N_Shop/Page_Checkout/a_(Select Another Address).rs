@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(Select Another Address)</name>
+   <tag></tag>
+   <elementGuidId>96c50c41-7e83-43db-8ba3-c2745eab0fc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/div[2]/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.shipping-instructions</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27b0b959-3092-4171-b51f-5c144316a662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3d21a112-fe41-42ad-93ab-711a1fbbf255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shipping-instructions</value>
+      <webElementGuid>50ce7634-25cb-4099-852d-705b3a53aa5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>addresses.length == 0</value>
+      <webElementGuid>ee5f9e00-bf33-42d1-9c1e-f83d42ef7ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>showAdditionalAddressesModal()</value>
+      <webElementGuid>d9938818-4144-403b-8234-07326bde07e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Select Another Address)</value>
+      <webElementGuid>48b128d5-6dfd-4d6f-b5b9-525db0eb10e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;checkout-steps ng-isolate-scope&quot;]/div[@class=&quot;checkout-step ng-scope editable active&quot;]/div[@class=&quot;step-panel&quot;]/div[@class=&quot;shipping-address checkout-component ng-scope&quot;]/div[1]/a[@class=&quot;shipping-instructions&quot;]</value>
+      <webElementGuid>4d50548d-232f-4044-80ca-bb5035013532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>7887387b-94fe-46d7-9b18-c8c110fb1f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'(Select Another Address)')]</value>
+      <webElementGuid>a993e705-7a8e-43e6-9d84-51f2aa9f366b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship To Information:'])[1]/following::a[1]</value>
+      <webElementGuid>f07b10a2-6c6c-451d-9752-22e8041c40bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=', CA'])[1]/following::a[1]</value>
+      <webElementGuid>73bd7530-f667-46f1-9e41-4e5a28106897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Required Fields'])[1]/preceding::a[1]</value>
+      <webElementGuid>1cba1302-74d9-41e5-b39b-aa9963fedb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Select Another Address)']/parent::*</value>
+      <webElementGuid>c45228b5-8e4c-4152-8bfd-4f44c34e84d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>2a2e8a04-94e7-4086-8ef9-5b4dd40d3e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>0ed3b4ff-54c7-4ceb-b872-bab34522729e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '(Select Another Address)' or . = '(Select Another Address)')]</value>
+      <webElementGuid>be29f510-efd7-4848-a730-762ff13e95c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

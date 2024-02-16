@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018_VerifyancelMemberPendingPaymentOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>383dff0e-bbf0-4c4d-a7bc-f11ec58b3d3e</testCaseGuid>
+</TestCaseEntity>

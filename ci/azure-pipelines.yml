@@ -1,0 +1,52 @@
+trigger:
+- none
+
+pool:
+  name: Default
+
+variables:
+  AzConnection: 'Microsoft Azure Sponsorship (824b4a1b-db65-4c2b-b6e7-9b19bc491f9e)-1227'
+
+stages:
+  - stage: Web_Mock
+    jobs:
+      - job: Login
+        displayName: Login
+        steps:
+        - task: katalonTask@0
+          continueOnError: true
+          displayName: Run Tests
+          inputs:
+            version: '7.7.2'
+            executeArgs: '-browserType="Chrome" -retry=0 -statusDelay=15 -apikey="3aadf58b-6506-49da-afbc-3e83952f121a" -testSuitePath="Test Suites/LogIn" --config -webui.autoUpdateDrivers=true'
+
+        - task: PublishTestResults@2
+          displayName: Publish results to AzureDevops
+          continueOnError: true
+          inputs:
+            testResultsFormat: 'JUnit'
+            testResultsFiles: '**/Reports/*/LogIn/*/JUnit_Report.xml'
+            searchFolder: '$(System.DefaultWorkingDirectory)'
+            testRunTitle: 'Web_Mock_Login'
+
+        - task: AzureFileCopy@4
+          continueOnError: true
+          displayName: Export HTML Results
+          inputs:
+            SourcePath: '$(System.DefaultWorkingDirectory)/Reports/20*/LogIn/20*/*.html'
+            azureSubscription: '$(AzConnection)'
+            Destination: 'AzureBlob'
+            storage: 'tidevops'
+            ContainerName: 'katalontests'
+            BlobPrefix: 'Web_Mock_Login/$(Build.BuildNumber)/Login.html'
+
+        - task: AzureFileCopy@4
+          continueOnError: true
+          displayName: Export XLSX Results
+          inputs:
+            SourcePath: '$(System.DefaultWorkingDirectory)/Data Files/Test_Cases.xlsx'
+            azureSubscription: '$(AzConnection)'
+            Destination: 'AzureBlob'
+            storage: 'tidevops'
+            ContainerName: 'katalontests'
+            BlobPrefix: 'Web_Mock_Login/$(Build.BuildNumber)/Login.xlsx'

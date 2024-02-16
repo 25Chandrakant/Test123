@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Home Phone_iti-arrow</name>
+   <tag></tag>
+   <elementGuidId>550b80b8-3026-4315-9bd2-da2916417bdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;divHome1&quot;]//div//div[@class=&quot;selected-flag&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#divHome1 > div.intl-tel-input.allow-dropdown > div.flag-container > div.selected-flag > div.iti-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0b76c69-cd8f-440f-a8d4-4f03378aa48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti-arrow</value>
+      <webElementGuid>7913f9f2-ad40-4d0d-af1d-209a0f79f3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divHome1&quot;)/div[@class=&quot;intl-tel-input allow-dropdown&quot;]/div[@class=&quot;flag-container&quot;]/div[@class=&quot;selected-flag&quot;]/div[@class=&quot;iti-arrow&quot;]</value>
+      <webElementGuid>9d0a3f51-9f5e-4cab-a3a4-f9a8950ad8ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divHome1']/div/div/div/div[2]</value>
+      <webElementGuid>cb355c14-6c83-49ea-8067-57f2c91a2c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>c58b379a-6b17-40dd-83b8-44c997fdb34c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

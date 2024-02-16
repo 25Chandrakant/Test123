@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyValidationMessageClubAndMeeting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b05c2d2b-def1-4115-90e5-78bd53818c12</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_DownloadAllVisitReportForADVR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae067fa7-d786-4ef1-bc78-6c865e765451</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_AddMemberAddressOnPaymentPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1fa594b-8ea1-491a-a830-bd7caa0fa4e9</testCaseGuid>
+</TestCaseEntity>

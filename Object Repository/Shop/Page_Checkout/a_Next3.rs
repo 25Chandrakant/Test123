@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next3</name>
+   <tag></tag>
+   <elementGuidId>b84c1c5e-6655-4f7d-bf34-660b03b8b1b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/div[4]/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkout-step.ng-scope.editable.active > div.step-panel > div.step-actions > a.bttn.bttn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a54f1af2-0111-4358-8d7f-741ddce6530c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bttn bttn-primary</value>
+      <webElementGuid>fe2f8b07-e84b-4baf-8228-fa0e4fb58b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>next()</value>
+      <webElementGuid>2eec7f8c-5509-4106-b229-db34d3633295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>e6a46be0-572d-49d5-b215-26f59a55655d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;checkout-steps ng-isolate-scope&quot;]/div[@class=&quot;checkout-step ng-scope editable active&quot;]/div[@class=&quot;step-panel&quot;]/div[@class=&quot;step-actions&quot;]/a[@class=&quot;bttn bttn-primary&quot;]</value>
+      <webElementGuid>ce292da6-03b0-404e-ac1d-7875c1aed4f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/div[4]/div[2]/div[2]/a</value>
+      <webElementGuid>90a701a0-82bd-4c2a-8b00-b1af71424294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Next')])[3]</value>
+      <webElementGuid>404bf700-c0f1-43f5-831a-4e08fb01c373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select a batch number'])[1]/following::a[1]</value>
+      <webElementGuid>480b06be-39b2-4f1a-8ac9-ffa46182bf2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter a valid security code'])[1]/following::a[1]</value>
+      <webElementGuid>c87ef236-90e9-452f-9c34-dd57ce7471b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[6]/preceding::a[1]</value>
+      <webElementGuid>69394d64-6322-41c4-bc0b-ed04d6c96bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[105]</value>
+      <webElementGuid>88ff2198-3e11-4ec9-bef1-adbde182255f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/a</value>
+      <webElementGuid>721499cb-6db9-4f14-b164-9380dd0a0c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>1ca1675a-9ce0-480a-90fa-c638dee279bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

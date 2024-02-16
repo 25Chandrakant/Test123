@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_My Addresses_fa fa-close</name>
+   <tag></tag>
+   <elementGuidId>9f71cdf7-9abd-42af-a980-c52fcb1bb798</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='normalize-address-close']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a1b0be43-75a8-4ea7-beb6-ba15782d2f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-close</value>
+      <webElementGuid>94a00fe6-506e-4dbb-a50d-402d183652aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;normalize-address-close&quot;)/i[@class=&quot;fa fa-close&quot;]</value>
+      <webElementGuid>5b69fee5-cdbe-4e3b-b03b-84049a20bdb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='normalize-address-close']/i</value>
+      <webElementGuid>3eb74993-0b1c-440d-95a6-649d4f67f463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/button/i</value>
+      <webElementGuid>f6a12e96-b143-4323-8b5e-ac38288701b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

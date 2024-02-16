@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyMemberDetailsInClubFinancial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc7e4b35-9678-4edc-9ea6-28cefc9abb77</testCaseGuid>
+</TestCaseEntity>

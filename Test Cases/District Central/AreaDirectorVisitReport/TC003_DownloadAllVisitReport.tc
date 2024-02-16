@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_DownloadAllVisitReport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44ce9d5a-1dc6-415e-bf3b-b6f90cf8d3e7</testCaseGuid>
+</TestCaseEntity>

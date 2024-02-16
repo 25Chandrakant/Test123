@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyButtonIsDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e1e4849-5937-4c22-b867-cb8c846733d0</testCaseGuid>
+</TestCaseEntity>

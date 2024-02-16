@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vote_InterDirector_Region14_1_vote1</name>
+   <tag></tag>
+   <elementGuidId>5d377dc7-1bcf-4b13-938a-351ef1e48ee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;Region_14&quot;]//div[@data-candidateid=&quot;117&quot;]//*[@class=&quot;votingcardvotes&quot;]//*[@id=&quot;img1_2_50_117_1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

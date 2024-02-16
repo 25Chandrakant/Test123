@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vote_InterOfficer_secondvicePresident_2_Vote2</name>
+   <tag></tag>
+   <elementGuidId>92f19502-1334-4238-abfc-2d759ce5e8f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;Second_Vice_President&quot;]//div[@id=&quot;member_1_43_102&quot;]//div[@class=&quot;votingcardhere&quot;]//*[@src=&quot;/Content/images/MyProxy/Vote2.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

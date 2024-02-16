@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Voting</name>
+   <tag></tag>
+   <elementGuidId>df98bece-6a30-420f-a8a8-0f3a93571b9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.color-white.mar-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='heropart']/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>ee6f4d0e-730f-4956-b93b-b15297ed671a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-white mar-0</value>
+      <webElementGuid>dfa7a8c7-8957-4c79-99c2-9203f31508a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Voting
+					</value>
+      <webElementGuid>6d1fa414-7794-4365-9569-f4628f92ce34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heropart&quot;)/div[@class=&quot;hero-image align-vertical&quot;]/div[@class=&quot;col-lg-8 col-md-10 col-sm-12 text-center&quot;]/div[1]/h1[@class=&quot;color-white mar-0&quot;]</value>
+      <webElementGuid>e9c0e017-d3b2-41c3-b0fa-66b0068ec0fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='heropart']/div/div/div/h1</value>
+      <webElementGuid>d8fadb15-926d-478f-812d-8e98b6226c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='learn more'])[1]/following::h1[1]</value>
+      <webElementGuid>20cb7c29-fec0-4d5e-8e22-2161a09c30c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voting'])[2]/preceding::h1[1]</value>
+      <webElementGuid>37d7e61c-a1c5-4d62-8350-0b9e8255ab3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e09e6009-d0a4-4425-bb17-136e3a928f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>d4eaae3e-6ac7-4c29-a1fc-6ca0ab519046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+						Voting
+					' or . = '
+						Voting
+					')]</value>
+      <webElementGuid>74033cce-57e6-46e3-b0fa-4924da2ed502</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

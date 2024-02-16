@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ok</name>
+   <tag></tag>
+   <elementGuidId>c6776182-c250-4b30-a23f-fe9020eb3ae8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@class=&quot;modal-dialog&quot;]//div[@class=&quot;modal-content&quot;]//div[3][@class=&quot;modal-footer&quot;]//div[@class=&quot;clubGoalsformSubmit&quot;]//a[@onclick=&quot;ReloadPage()&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

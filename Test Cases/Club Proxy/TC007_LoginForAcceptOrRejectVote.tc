@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_LoginForAcceptOrRejectVote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8901885f-0200-4599-bf8d-a78618863531</testCaseGuid>
+</TestCaseEntity>

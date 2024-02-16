@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_ClubIsNotEnrolledInSelfPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cca3be1-9486-41ea-bdbb-c89638310bbd</testCaseGuid>
+</TestCaseEntity>

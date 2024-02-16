@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_PurchaseProductByClickOnSearchButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54f0685-5cc5-4644-8ca6-0c264347ca91</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_18.00</name>
+   <tag></tag>
+   <elementGuidId>916aaa9e-2d06-4677-98ce-98b7752e50c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.shoppingCartAmtSpan.ng-binding.discount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='products-list']/tbody/tr/td[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ab99580-a2b7-4aae-9d67-88ba1748c2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shoppingCartAmtSpan ng-binding discount</value>
+      <webElementGuid>a37457b0-d00b-4a05-8f38-2a32987c89ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{discount: product.WasPrice}</value>
+      <webElementGuid>85dac5f1-ee2a-4163-9898-4d6ecd9ee235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$18.00</value>
+      <webElementGuid>b92d3f41-eb30-457a-89af-67339a03fac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products-list&quot;)/tbody[@class=&quot;ng-scope&quot;]/tr[1]/td[@class=&quot;amt&quot;]/span[@class=&quot;shoppingCartAmtSpan ng-binding discount&quot;]</value>
+      <webElementGuid>84b37c54-3e4b-46c3-acc1-9d92067c8b14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='products-list']/tbody/tr/td[4]/span</value>
+      <webElementGuid>4a9620f3-5dee-46cd-b511-9185439586a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out of stock'])[1]/following::span[1]</value>
+      <webElementGuid>2fdf7ebd-ba9e-4b68-941a-1d0df6de812d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/following::span[1]</value>
+      <webElementGuid>53a6b946-092b-4e4e-a4cf-b646a6d70708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engraving'])[1]/preceding::span[1]</value>
+      <webElementGuid>72038d09-d6d0-4129-9ea2-414f270ff00b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>04c6022f-b611-46a3-bbab-c904cb0fc46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$18.00']/parent::*</value>
+      <webElementGuid>9356697c-108f-4c93-82b6-b819f8c26058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span</value>
+      <webElementGuid>b2e36472-b7d3-44e0-9112-317441734a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$18.00' or . = '$18.00')]</value>
+      <webElementGuid>525b1ed5-96e6-4407-8f28-4bfb14020d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

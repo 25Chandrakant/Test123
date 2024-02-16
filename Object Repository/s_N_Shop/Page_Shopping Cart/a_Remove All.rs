@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remove All</name>
+   <tag></tag>
+   <elementGuidId>0bd622f7-a9c1-43ab-b3c2-57305668a9f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.bttn.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='products-list']/tbody[2]/tr/td/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cba19fa4-26b1-4775-b91b-57e4443a23ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>59e947a0-f414-4a62-ac27-a9f938e5ac07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bttn ng-scope</value>
+      <webElementGuid>80039043-f614-4684-9957-dcacfe34feb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>02eb3d2b-681a-45ee-a432-264560d5f737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>removeAllFromCart()</value>
+      <webElementGuid>2e569951-ccdf-4071-9a9a-a1e5daf49c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove All</value>
+      <webElementGuid>b46a06ac-ebcb-4712-808b-8fcd5e9fc4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products-list&quot;)/tbody[2]/tr[1]/td[1]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;bttn ng-scope&quot;]</value>
+      <webElementGuid>95fbd80a-6550-49f7-ac1c-6bf0df4ffb5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='products-list']/tbody[2]/tr/td/div/a</value>
+      <webElementGuid>fe990558-32f2-4a42-acdb-b308afcc5ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Remove All')]</value>
+      <webElementGuid>c956cbd2-0bcc-4dbe-a277-5dba146e3ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/following::a[1]</value>
+      <webElementGuid>bf1c6f25-b71e-47f2-a006-56905e597909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engraving'])[1]/following::a[1]</value>
+      <webElementGuid>9dbcd7e3-c77d-4bc2-aa39-01feca7642a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::a[1]</value>
+      <webElementGuid>f7835e60-1c85-44d8-b6d0-2196a205a6c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engraving'])[2]/preceding::a[2]</value>
+      <webElementGuid>d7db322a-c629-4902-b000-c88f93c20e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove All']/parent::*</value>
+      <webElementGuid>727ccf7f-1613-49d4-a55a-b755026cc93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>50ee07b2-10e8-44fe-94f2-699a7e696bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>13ba7815-67b4-450a-bb27-2da17fc5064c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Remove All' or . = 'Remove All')]</value>
+      <webElementGuid>0ffe5cf0-139f-4d0e-aa28-d034047f22b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

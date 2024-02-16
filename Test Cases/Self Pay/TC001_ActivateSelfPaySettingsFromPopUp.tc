@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_ActivateSelfPaySettingsFromPopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae872c9a-16b5-48cf-937c-31b28ea3688d</testCaseGuid>
+</TestCaseEntity>

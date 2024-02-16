@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_ItemIsOutOfStockAndNoLongerAvailablePopUpSearchPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>971a7a12-8956-493e-95ae-e826cf805ef6</testCaseGuid>
+</TestCaseEntity>

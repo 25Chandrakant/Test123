@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_PurchaseMembershipForFuture</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>827d72f1-fe66-4b68-8a4a-555f35a05e3d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_VerifyOrderIdForDigitalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd31cc9d-e3a5-47f1-b481-1c7f08c7e996</testCaseGuid>
+</TestCaseEntity>

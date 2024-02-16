@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_LoginForPaidEnrolledMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31b1357a-ef78-4057-8640-c11d156b0228</testCaseGuid>
+</TestCaseEntity>

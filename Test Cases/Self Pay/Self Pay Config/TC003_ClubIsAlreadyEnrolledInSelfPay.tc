@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_ClubIsAlreadyEnrolledInSelfPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc10e262-ab7c-4ee9-ad00-5b0db18b6cf8</testCaseGuid>
+</TestCaseEntity>

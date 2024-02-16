@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Order Reference SO-000000002151</name>
+   <tag></tag>
+   <elementGuidId>7de8be0a-a15a-41dc-97ae-e344b3ad0749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='thank-you']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.orderReferenceNumber</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>074ce074-2f8a-4d55-9e11-1d53aa31a111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orderReferenceNumber</value>
+      <webElementGuid>9f753b53-8c95-4349-a623-27df96e60542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Reference #SO-000000002151</value>
+      <webElementGuid>1799eaf7-5f92-4703-bb2b-8cc28dc192a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;thank-you&quot;)/h2[@class=&quot;orderReferenceNumber&quot;]</value>
+      <webElementGuid>31e76617-e4e7-4085-99f9-0338349d7a53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='thank-you']/h2</value>
+      <webElementGuid>9522eb74-fc28-490a-8a8c-3f5e805ba44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order request has been received successfully!'])[1]/following::h2[1]</value>
+      <webElementGuid>9737dad5-323c-474b-a77f-3587f1bc77de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt'])[2]/following::h2[1]</value>
+      <webElementGuid>904a0453-c256-45cc-b4ed-382e8f9539e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='char.bennington@chicagobooth.edu'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f39d6d61-93cd-4be0-b3be-427dbc9d80ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Reference']/parent::*</value>
+      <webElementGuid>fb5ac9bb-ff95-435b-ba8e-fb81840eecfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>7b4873a1-0fc7-4cfd-8f2c-02b055b17c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Order Reference #SO-000000002151' or . = 'Order Reference #SO-000000002151')]</value>
+      <webElementGuid>d130569f-1c10-46d2-be12-3b2d98eab407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

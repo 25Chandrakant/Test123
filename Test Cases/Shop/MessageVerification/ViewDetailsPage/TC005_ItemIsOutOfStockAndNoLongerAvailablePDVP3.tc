@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_ItemIsOutOfStockAndNoLongerAvailablePDVP3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c72ab0a3-76f3-47ef-a9ce-aebe8cc7240d</testCaseGuid>
+</TestCaseEntity>

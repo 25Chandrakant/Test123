@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC000_EditAndVerifyPersonalDetailsForMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75499892-3fb8-407c-ad77-399f7b090707</testCaseGuid>
+</TestCaseEntity>

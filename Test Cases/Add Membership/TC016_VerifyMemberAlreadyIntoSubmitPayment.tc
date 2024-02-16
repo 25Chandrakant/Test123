@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_VerifyMemberAlreadyIntoSubmitPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e6e4b64-7501-402f-92d7-0584d010c675</testCaseGuid>
+</TestCaseEntity>

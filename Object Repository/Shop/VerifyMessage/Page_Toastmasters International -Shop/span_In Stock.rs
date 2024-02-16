@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_In Stock</name>
+   <tag></tag>
+   <elementGuidId>7b01789f-1ece-4897-a921-f4f4f9a50b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(), 'In Stock')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#stockmessage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc10242b-9866-49ca-a077-7d212844107d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-validation spanWrap</value>
+      <webElementGuid>af932619-a50d-4520-b257-16d77aed83a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>stockmessage</value>
+      <webElementGuid>23f4febf-8cd1-4e5a-bd6e-e8259da39d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Stock</value>
+      <webElementGuid>863c2bac-f497-43f9-89dd-32442f12c69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stockmessage&quot;)</value>
+      <webElementGuid>7a341370-b7fe-49b5-be07-538193fdb74b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='stockmessage']</value>
+      <webElementGuid>74667c37-b694-40c9-b997-b2053b97f737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='added-to-cart']/div/table/tbody/tr/td[2]/span[2]</value>
+      <webElementGuid>bc6af255-46ed-43f3-85b4-64e29b8ab5e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity: 1'])[1]/following::span[1]</value>
+      <webElementGuid>786593c5-88e1-4f06-b7ee-9c40f575580e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Story of Toastmasters, Vol. II'])[1]/following::span[2]</value>
+      <webElementGuid>02b47e8e-6cb4-400f-a6d9-6e381a9ad220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::span[6]</value>
+      <webElementGuid>c4ccc01a-5680-4cf5-92ae-eaa5417e33bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/preceding::span[6]</value>
+      <webElementGuid>2a82924a-c11b-4d6b-8dff-89383efde7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In Stock']/parent::*</value>
+      <webElementGuid>a2a12d9c-a45d-47ae-943f-cbece1fff670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span[2]</value>
+      <webElementGuid>8c0bbb09-80ad-44a0-a890-1bce127d3823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'stockmessage' and (text() = 'In Stock' or . = 'In Stock')]</value>
+      <webElementGuid>14e89bce-8c4f-401c-8540-a9fca42fa279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

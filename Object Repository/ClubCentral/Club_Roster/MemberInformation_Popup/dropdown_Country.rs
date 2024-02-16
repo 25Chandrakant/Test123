@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_Country</name>
+   <tag></tag>
+   <elementGuidId>4202e6fb-c60f-4194-bb39-34a0b53bb0cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-id=&quot;MemberMailingAddress_MailingAddress_Address_Country_Value&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(//span[@class=&quot;bs-caret&quot;])[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

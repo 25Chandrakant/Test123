@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This product is discontinued</name>
+   <tag></tag>
+   <elementGuidId>c4b60352-2737-4de8-b442-2b57017d4b0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'This product is discontinued')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#discontinuedmsg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6d3ab910-927f-4562-ad5b-9724e84966ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-validation</value>
+      <webElementGuid>dce3cc31-fba9-4be3-9b38-5f7634152509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>discontinuedmsg</value>
+      <webElementGuid>cd35af9a-0197-4de5-a344-e62e90274c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This product is discontinued, Only 605 left! </value>
+      <webElementGuid>a9f1af3a-e2bf-4359-b604-e5f973a329c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discontinuedmsg&quot;)</value>
+      <webElementGuid>307fa6a6-d8ed-47c6-9f72-e6091c77a9ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='discontinuedmsg']</value>
+      <webElementGuid>685770c8-b279-47eb-bbb8-4355f1a2d665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info']/div[4]/p[2]</value>
+      <webElementGuid>d2740f9a-658a-4c47-961e-6c1e8f2a43da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add to Cart'])[1]/following::p[2]</value>
+      <webElementGuid>e9cb6afc-af63-473f-b2de-2bf3aacffebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Weight: 0.563 lbs'])[1]/following::p[2]</value>
+      <webElementGuid>a12e7785-02cd-44ff-8905-c77fd695cd54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::p[1]</value>
+      <webElementGuid>3fcb8ca7-771e-425b-9b6e-a57dbe826b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart + Checkout'])[1]/preceding::p[4]</value>
+      <webElementGuid>c5ebdf4c-d9a5-45ac-bfbb-5a537b25ace7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This product is discontinued, Only 605 left!']/parent::*</value>
+      <webElementGuid>2843120b-05ec-4c10-8b01-55bfa0c8153d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>c4505d1d-0ca7-4e96-8b82-36563c8f4fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'discontinuedmsg' and (text() = 'This product is discontinued, Only 605 left! ' or . = 'This product is discontinued, Only 605 left! ')]</value>
+      <webElementGuid>b1daf117-a177-4c20-91e1-33ae807dc6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

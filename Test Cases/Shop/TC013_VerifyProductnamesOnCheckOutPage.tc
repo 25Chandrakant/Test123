@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_VerifyProductnamesOnCheckOutPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfe81087-4f65-4b02-bcc2-e23c77f0bc3f</testCaseGuid>
+</TestCaseEntity>

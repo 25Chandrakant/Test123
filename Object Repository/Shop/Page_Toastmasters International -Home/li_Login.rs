@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Login</name>
+   <tag></tag>
+   <elementGuidId>65d2e59b-fe3a-4fb1-aca9-6ad5658dac40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WHERE LEADERS ARE MADE'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9a177e9e-62b6-4f5f-b1b4-fcd234f6c8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Login
+                        </value>
+      <webElementGuid>2bc692cf-06ba-427b-a220-c10870004007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-myriadpro-n9-active wf-myriadpro-i4-active wf-myriadpro-i7-active wf-myriadpro-n7-active wf-myriadpro-i9-active wf-myriadpro-n4-active wf-myriadpro-i3-active wf-myriadpro-n3-active wf-myriadpro-i6-active wf-myriadpro-n6-active wf-active&quot;]/body[1]/div[@class=&quot;siteWrap home&quot;]/header[@class=&quot;navbar navbar-static-top mainHeader affix-top&quot;]/div[@class=&quot;topHeader&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;extraNav&quot;]/ul[@class=&quot;inline&quot;]/li[1]</value>
+      <webElementGuid>0ee301a3-998a-4b41-81f9-59004405e1ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHERE LEADERS ARE MADE'])[1]/following::li[1]</value>
+      <webElementGuid>ca0aff37-4474-4eaa-b99e-bc539e136632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::li[1]</value>
+      <webElementGuid>02603c6d-83bc-483a-a20b-e57bcb307c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Club'])[1]/preceding::li[1]</value>
+      <webElementGuid>09517287-a6c3-4f1a-8f47-20cd47c05934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>0125cec1-84de-4c83-9c8c-eefe29205f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                            Login
+                        ' or . = '
+                            Login
+                        ')]</value>
+      <webElementGuid>196b03c8-d557-4ab0-93b6-6bb370df8455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
